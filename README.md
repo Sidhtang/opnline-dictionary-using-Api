@@ -1,2 +1,2 @@
 # opnline-dictionary-using-Api
-it is a  sikmple dictionar using python and APIs
+it is a  simple dictionar using python and APIs
